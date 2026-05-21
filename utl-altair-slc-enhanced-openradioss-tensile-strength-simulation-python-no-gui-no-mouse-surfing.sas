@@ -1,6 +1,5 @@
 %let pgm=utl-altair-slc-enhanced-openradioss-tensile-strength-simulation-python-no-gui-no-mouse-surfing;
 
-
 Altair slc openradioss tensile strength simulation python no gui no mouse surfing
 
 A complete self-contained reproducible example is presented that is entirely scripted, no
