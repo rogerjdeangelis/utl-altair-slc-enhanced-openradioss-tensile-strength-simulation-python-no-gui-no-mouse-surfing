@@ -49,25 +49,45 @@ My plot
 Validation Result https://github.com/rogerjdeangelis/utl-altair-slc-python-script-to-run-openradioss-tensile-strength-simulation/blob/main/Fixed_End_RBODY_FX_X_FORCE.png
 
 Graphical Analysis - See below for Summary Tables
-Stress-strain curve          https://github.com/rogerjdeangelis/utl-altair-slc-python-script-to-run-openradioss-tensile-strength-simulation/blob/main/stress_strain.png
+Stress-strain curve          
 
-Force vs Displacement        https://github.com/rogerjdeangelis/utl-altair-slc-python-script-to-run-openradioss-tensile-strength-simulation/blob/main/force_displace.png
+https://github.com/rogerjdeangelis/utl-altair-slc-python-script-to-run-openradioss-tensile-strength-simulation/blob/main/stress_strain.png
 
-Energy - Early Phase         https://github.com/rogerjdeangelis/utl-altair-slc-python-script-to-run-openradioss-tensile-strength-simulation/blob/main/energy_evolution.png
+Force vs Displacement    
 
-Energy - Full Simulation     https://github.com/rogerjdeangelis/utl-altair-slc-python-script-to-run-openradioss-tensile-strength-simulation/blob/main/energy_evolutionfull.png
+https://github.com/rogerjdeangelis/utl-altair-slc-python-script-to-run-openradioss-tensile-strength-simulation/blob/main/force_displace.png
 
-X-Momentum Primary Direction https://github.com/rogerjdeangelis/utl-altair-slc-python-script-to-run-openradioss-tensile-strength-simulation/blob/main/xmomentumevolve.png
+Energy - Early Phase     
 
-Time Step Evolution          https://github.com/rogerjdeangelis/utl-altair-slc-python-script-to-run-openradioss-tensile-strength-simulation/blob/main/timestephistory.png
+https://github.com/rogerjdeangelis/utl-altair-slc-python-script-to-run-openradioss-tensile-strength-simulation/blob/main/energy_evolution.png
 
-Energy Balance               https://github.com/rogerjdeangelis/utl-altair-slc-python-script-to-run-openradioss-tensile-strength-simulation/blob/main/energybalance.png
+Energy - Full Simulation   
 
-Fraction Plastic Deformation https://github.com/rogerjdeangelis/utl-altair-slc-python-script-to-run-openradioss-tensile-strength-simulation/blob/main/plasticwork.png
+https://github.com/rogerjdeangelis/utl-altair-slc-python-script-to-run-openradioss-tensile-strength-simulation/blob/main/energy_evolutionfull.png
 
-All files(run 1-9)           https://github.com/rogerjdeangelis/utl-altair-slc-python-script-to-run-openradioss-tensile-strength-simulation/blob/main/rad.exe
+X-Momentum Primary Direction 
 
-All Files(run 1-13 run)      https://github.com/rogerjdeangelis/utl-altair-slc-enhanced-openradioss-tensile-strength-simulation-python-no-gui-no-mouse-surfing/blob/main/rad.exe
+https://github.com/rogerjdeangelis/utl-altair-slc-python-script-to-run-openradioss-tensile-strength-simulation/blob/main/xmomentumevolve.png
+
+Time Step Evolution    
+
+https://github.com/rogerjdeangelis/utl-altair-slc-python-script-to-run-openradioss-tensile-strength-simulation/blob/main/timestephistory.png
+
+Energy Balance     
+
+https://github.com/rogerjdeangelis/utl-altair-slc-python-script-to-run-openradioss-tensile-strength-simulation/blob/main/energybalance.png
+
+Fraction Plastic Deformation 
+
+https://github.com/rogerjdeangelis/utl-altair-slc-python-script-to-run-openradioss-tensile-strength-simulation/blob/main/plasticwork.png
+
+All files(run 1-9)     
+
+https://github.com/rogerjdeangelis/utl-altair-slc-python-script-to-run-openradioss-tensile-strength-simulation/blob/main/rad.exe
+
+All Files(run 1-13 run)      
+
+ttps://github.com/rogerjdeangelis/utl-altair-slc-enhanced-openradioss-tensile-strength-simulation-python-no-gui-no-mouse-surfing/blob/main/rad.exe
 ````
 CONTENTS
 --------
@@ -77,7 +97,7 @@ CONTENTS
  3 Time history table
  4 Csv to history table
  5 Validation plot
- 6 Staistical summary
+ 6 Statistical summary
  7 Many plots
     Stress-strain curve for DP600 steel tensile test
     Force vs Displacement - Raw Tensile Test Data
@@ -94,8 +114,8 @@ ADDED ENHANCED SIMULATION
 -------------------------
 10 convert vtk to one vtkhdf file
 11 vtkhdf to csv 133 columns
-12 csv to detail stress strain tensors
-13 animation with colored stress contours
+12 CSV to detail stress-strain tensors
+13 animations with colored stress contours
 
 Related Repos
 https://github.com/rogerjdeangelis/utl-altair-slc-post-processing-radioss-files-using-openradioss
