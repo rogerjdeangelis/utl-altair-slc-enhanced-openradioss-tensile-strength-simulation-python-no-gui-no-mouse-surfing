@@ -5,11 +5,12 @@ GUI or mouse surfing requeried.  Results are choppy because I created only 41 fr
 Physics is scaled down to limit prosessing time?
 
 Google Animation
-Enhanced with colored stress strain tensor contours
+Enhanced 
+WITH :colored stress strain tensor contours
 
 https://drive.google.com/file/d/1iyisl5VNQ7YsmGZYhBiP-dSdu_W-Dk3t/view?usp=drive_link
 
-Without colored stress strain tensors contours
+WITHOUT: colored stress strain tensors contours
 
 https://drive.google.com/file/d/1qWkVqS48cl5bpSytXd7lbdTVOpoGvxrG/view?usp=drive_link
 
