@@ -1,41 +1,39 @@
-# utl-altair-slc-enhanced-openradioss-tensile-strength-simulation-python-no-gui-no-mouse-surfing
-Altair slc openradioss tensile strength simulation python no gui no mouse surfing pgm=utl-altair-slc-enhanced-openradioss-tensile-strength-simulation-python-no-gui-no-mouse-surfing;
-
-Altair slc openradioss tensile strength simulation python no gui no mouse surfing
+# Altair slc openradioss tensile strength simulation python no gui no mouse surfing
 
 A complete enhanced self-contained reproducible example is presented that is entirely scripted, no
-GUI or mouse surfing required.  Results are choppy because I created only 41 frames, good for testing.
-Physics is scaled down to limit processing time?
+GUI or mouse surfing requeried.  Results are choppy because I created only 41 frames, good for testing.
+Physics is scaled down to limit prosessing time?
 
 Google Animation
 
-  enhanced with colored stress-strain tensor contours
-
-    [stress contours](https://drive.google.com/file/d/1iyisl5VNQ7YsmGZYhBiP-dSdu_W-Dk3t/view?usp=drive_link)
+  Enhanced with colored stress strain tensor contours
 
     https://drive.google.com/file/d/1iyisl5VNQ7YsmGZYhBiP-dSdu_W-Dk3t/view?usp=drive_link
 
-  without colored stress-strain tensor contours
-
-    [without stress contours](https://drive.google.com/file/d/1qWkVqS48cl5bpSytXd7lbdTVOpoGvxrG/view?usp=drive_link)
+  Without colored stress strain tensors contours
 
     https://drive.google.com/file/d/1qWkVqS48cl5bpSytXd7lbdTVOpoGvxrG/view?usp=drive_link
 
 Too long to post here see
 
-For earlier results, run section 1-9 see
+For ealier results run section 1-9 see
+
 https://github.com/rogerjdeangelis/utl-altair-slc-python-script-to-run-openradioss-tensile-strength-simulation
 
-For enhancements, run sections 10-13 after running 1-9
+For enhancements run sections 10-13 after running 1-9
+
 https://github.com/rogerjdeangelis/utl-altair-slc-enhanced-openradioss-tensile-strength-simulation-python-no-gui-no-mouse-surfing
 
 Global force energy table
+
   https://github.com/rogerjdeangelis/utl-altair-slc-enhanced-openradioss-tensile-strength-simulation-python-no-gui-no-mouse-surfing/blob/main/global_force_energy.sas
+
 Detail
   enhanced stress-strain table
+
   https://github.com/rogerjdeangelis/utl-altair-slc-enhanced-openradioss-tensile-strength-simulation-python-no-gui-no-mouse-surfing/blob/main/enhanced_stress_strain_tensors.sas
 
-also downloadable from this rep, animation.mp4 and enhanced animation.mp4 (has colored stress contours)
+also downloadable from this rep, animation.mp4 and enhancenimation.mp4 (has collored stress contours)
 
 SOURCE
 openradioss simulation //openradioss.atlassian.net/wiki/spaces/OPENRADIOSS/pages/24444938/Tensile+Test+Example+Tutorial+Using+Gmsh
@@ -62,7 +60,6 @@ Fraction Plastic Deformation https://github.com/rogerjdeangelis/utl-altair-slc-p
 
 All files(run 1-9)           https://github.com/rogerjdeangelis/utl-altair-slc-python-script-to-run-openradioss-tensile-strength-simulation/blob/main/rad.exe
 All Files(run 1-13 run)      https://github.com/rogerjdeangelis/utl-altair-slc-enhanced-openradioss-tensile-strength-simulation-python-no-gui-no-mouse-surfing/blob/main/rad.exe
-
 ````
 CONTENTS
 --------
