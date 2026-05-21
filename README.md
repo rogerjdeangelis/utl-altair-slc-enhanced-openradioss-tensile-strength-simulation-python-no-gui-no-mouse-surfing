@@ -89,7 +89,7 @@ https://github.com/rogerjdeangelis/utl-altair-slc-python-script-to-run-openradio
 
 All Files(run 1-13 run)      
 
-ttps://github.com/rogerjdeangelis/utl-altair-slc-enhanced-openradioss-tensile-strength-simulation-python-no-gui-no-mouse-surfing/blob/main/rad.exe
+https://github.com/rogerjdeangelis/utl-altair-slc-enhanced-openradioss-tensile-strength-simulation-python-no-gui-no-mouse-surfing/blob/main/rad.exe
 ````
 CONTENTS
 --------
