@@ -46,7 +46,9 @@ For validation, an exact reproduction of the published plot was created,
 Published plot https://openradioss.atlassian.net/wiki/spaces/OPENRADIOSS/pages/24444938/Tensile+Test+Example+Tutorial+Using+Gmsh Result
 
 My plot
-Validation Result https://github.com/rogerjdeangelis/utl-altair-slc-python-script-to-run-openradioss-tensile-strength-simulation/blob/main/Fixed_End_RBODY_FX_X_FORCE.png
+Validation Result 
+
+https://github.com/rogerjdeangelis/utl-altair-slc-python-script-to-run-openradioss-tensile-strength-simulation/blob/main/Fixed_End_RBODY_FX_X_FORCE.png
 
 Graphical Analysis - See below for Summary Tables
 Stress-strain curve          
